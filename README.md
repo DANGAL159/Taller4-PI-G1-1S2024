@@ -4,7 +4,7 @@ Facultad de Ingeniería <br>
 Escuela de Ciencias y Sistemas <br>
 Prácticas Iniciales F- <br>
 
-Grupo I
+Grupo I <br>
 Daniel Abraham Gálvez Solorzano   		202203361 <br>
 Carlos Emanuel Sancir Reyes       		202201131 <br>
 Mateo Estuardo Diego Noriega	      	202203009 <br>
