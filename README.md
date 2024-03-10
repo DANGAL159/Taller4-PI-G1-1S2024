@@ -1,7 +1,7 @@
 # Taller4-PI-G1-1S2024
 Universidad de San Carlos de Guatemala <br>
-Facultad de ingeniería <br>
-Escuela de ciencias <br>
+Facultad de Ingeniería <br>
+Escuela de Ciencias y Sistemas <br>
 Prácticas Iniciales F- <br>
 
 Grupo I
